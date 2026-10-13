@@ -1,62 +1,132 @@
 # E-Commerce Sales Analysis — Week 1
 
+A beginner-friendly Data Science project focused on data cleaning, exploratory data analysis (EDA), business insights, and visualization using Python.
+
 ## Project Overview
 
-This project was completed as part of the Week 1 Data Science Internship assignment at WeIntern Pvt. Ltd. It focuses on data cleaning, exploratory sales analysis, business insights, and data visualization using Python.
+This project analyzes an e-commerce sales dataset to understand revenue performance, product sales, customer behavior, and payment preferences. It was completed as part of the Week 1 Data Science internship assignment at Welnt ern Pvt. Ltd.
 
 ## Objectives
 
-- Inspect and validate an e-commerce dataset.
-- Identify missing values and duplicate records.
-- Calculate key sales performance indicators.
-- Analyze product, category, monthly, and customer trends.
-- Create charts and a dashboard mockup.
+- Clean and validate raw sales data.
+- Perform exploratory data analysis using Pandas and NumPy.
+- Calculate key business metrics.
+- Identify top-performing products, categories, and sales periods.
+- Visualize findings using Matplotlib and Seaborn.
 
-## Dataset
-
-The dataset contains 100 transactions and initially 12 columns. The cleaned dataset includes an additional calculated `Total Amount` column.
-
-## Tools and Libraries
+## Tools and Technologies
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Pandas and NumPy
+- Matplotlib and Seaborn
 - Jupyter Notebook
+- Git and GitHub
 
-## Key Findings
+## Key Business Insights
 
-- Total revenue: ₹694,219.87
-- Total orders: 100
-- Average order value: ₹6,942.20
-- Total units sold: 294
-- Highest-revenue category: Electronics
-- Highest-revenue month: August 2024
-- Top product by units sold: Curtains
+| Metric | Result |
+|---|---:|
+| Total Revenue | ₹694,219.87 |
+| Total Orders | 100 |
+| Average Order Value | ₹6,942.20 |
+| Units Sold | 294 |
+| Highest-Revenue Category | Electronics |
+| Highest-Revenue Month | August 2024 |
+| City with Most Orders | Chennai |
+| Unique Customers | 98 |
+
+### Additional Findings
+
+- Electronics generated ₹140,811.26 in revenue.
+- Curtains was the highest-revenue product, generating ₹79,023.10.
+- August 2024 recorded the highest monthly revenue of ₹94,121.76.
+- Chennai recorded the highest number of orders, with 22 orders.
+
+## Data Visualizations
+
+### Revenue by Category
+
+![Revenue by Category](outputs/charts/revenue_by_category.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](outputs/charts/monthly_sales_trend.png)
+
+### Payment Method Distribution
+
+![Payment Method Distribution](outputs/charts/payment_method_distribution.png)
+
+## Dashboard Preview
+
+![Dashboard Mockup](outputs/dashboard/dashboard_mockup.png)
 
 ## Project Structure
 
-- `data/raw/` — Original dataset
-- `data/cleaned/` — Cleaned dataset
-- `outputs/charts/` — Visualization files
-- `outputs/dashboard/` — Dashboard mockup
-- `reports/` — Final report
-- `notebooks/` — Notebook folder
+```text
+data-science-week1-assignment/
+├── data/
+│   ├── raw/
+│   │   └── ecommerce_sales_data.csv
+│   └── cleaned/
+│       └── cleaned_dataset.csv
+├── notebooks/
+│   └── week1-analysis.ipynb
+├── outputs/
+│   ├── charts/
+│   └── dashboard/
+├── reports/
+│   └── final_report.md
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
 
-## How to Run
+## How to Run the Project
 
-1. Install Python 3 and the required libraries.
-2. Open `week1-analysis.ipynb` in VS Code or Jupyter Notebook.
-3. Select the appropriate Python environment.
-4. Execute the notebook cells in order.
+### 1. Clone the repository
 
-## Data Quality
+```bash
+git clone https://github.com/SankalpP2620/data-science-week1-assignment.git
+cd data-science-week1-assignment
+```
 
-Initial checks found no missing values, exact duplicate rows, or repeated Order IDs. Validation checks found no invalid quantities, prices, ages, ratings, or unparseable dates. Text standardization and date formatting were applied, and the original dataset was preserved.
+### 2. Create and activate a virtual environment
+
+On macOS or Linux:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open `notebooks/week1-analysis.ipynb` and run the cells in order.
+
+## Project Deliverables
+
+- Raw and cleaned datasets
+- Jupyter Notebook containing the analysis
+- Sales visualization charts
+- Dashboard mockup
+- Final project report
 
 ## Author
 
 **Sankalp Padhi**
 
-Data Science Internship — Week 1
+GitHub: [SankalpP2620](https://github.com/SankalpP2620)
+
+---
+
+*This project demonstrates foundational skills in Python, data cleaning, exploratory data analysis, visualization, and version control.*
