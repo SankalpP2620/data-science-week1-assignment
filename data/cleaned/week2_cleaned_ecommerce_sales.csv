@@ -1,0 +1,145 @@
+order_id,customer_id,product_name,category,quantity,unit_price,order_date,payment_mode,delivery_status,city,customer_age,rating,total_amount
+ORD-0018,CUST-1039,Running Shoes,Footwear,5.0,2499.0,2024-01-01,Debit Card,Cancelled,Bhubaneswar,25.0,3.0,12495.0
+ORD-0027,CUST-1026,Wireless Mouse,Electronics,1.0,599.0,2024-01-02,Debit Card,Delivered,Delhi,30.0,2.0,599.0
+ORD-0046,CUST-1012,Desk Lamp,Footwear,4.0,2499.0,2024-01-13,Debit Card,Cancelled,Delhi,35.0,2.0,9996.0
+ORD-0101,CUST-1006,Desk Lamp,Home & Kitchen,3.0,999.0,2024-01-14,Credit Card,Returned,Bhubaneswar,61.0,3.0,2997.0
+ORD-0075,CUST-1060,Bluetooth Speaker,Electronics,5.0,1899.0,2024-01-14,Debit Card,Shipped,Pune,43.0,2.0,9495.0
+ORD-0069,CUST-1059,Smart Watch,Electronics,2.0,3999.0,2024-01-14,Cash on Delivery,Returned,Bhubaneswar,23.0,4.0,7998.0
+ORD-0024,CUST-1056,Cotton T-Shirt,Clothing,1.0,699.0,2024-01-17,Debit Card,Delivered,Delhi,35.0,4.0,699.0
+ORD-0047,CUST-1055,Bluetooth Speaker,Electronics,4.0,1899.0,2024-01-20,Cash on Delivery,Shipped,Delhi,47.0,3.0,7596.0
+ORD-0035,CUST-1040,Desk Lamp,Footwear,5.0,999.0,2024-01-21,UPI,Cancelled,Kolkata,34.0,2.0,4995.0
+ORD-0140,CUST-1051,Desk Lamp,Home & Kitchen,1.0,999.0,2024-01-26,Debit Card,Shipped,Mumbai,54.0,2.0,999.0
+ORD-0019,CUST-1016,Curtains,Home & Kitchen,2.0,1299.0,2024-01-30,Net Banking,Delivered,Chennai,64.0,4.0,2598.0
+ORD-0032,CUST-1038,Curtains,Home & Kitchen,2.0,1299.0,2024-01-30,Net Banking,Delivered,Kolkata,21.0,1.0,2598.0
+ORD-0094,CUST-1040,Curtains,Home & Kitchen,5.0,1299.0,2024-01-31,UPI,Shipped,Delhi,34.0,1.0,6495.0
+ORD-0108,CUST-1046,Bluetooth Speaker,Electronics,1.0,1899.0,2024-02-05,Credit Card,Processing,Bhubaneswar,53.0,4.0,1899.0
+ORD-0039,CUST-1060,Wireless Mouse,Electronics,5.0,599.0,2024-02-06,UPI,Shipped,Hyderabad,25.0,1.0,2995.0
+ORD-0143,CUST-1051,Running Shoes,Footwear,1.0,2499.0,2024-02-07,Credit Card,Returned,Kolkata,19.0,2.0,2499.0
+ORD-0090,CUST-1029,Curtains,Home & Kitchen,4.0,1299.0,2024-02-09,Debit Card,Shipped,Bhubaneswar,34.0,4.0,5196.0
+ORD-0092,CUST-1016,Desk Lamp,Electronics,3.0,999.0,2024-02-13,UPI,Returned,Pune,56.0,5.0,2997.0
+ORD-0003,CUST-1046,Desk Lamp,Home & Kitchen,1.0,999.0,2024-02-15,Net Banking,Cancelled,Delhi,46.0,5.0,999.0
+ORD-0132,CUST-1051,Jeans,Clothing,3.0,1799.0,2024-02-16,Cash on Delivery,Delivered,Hyderabad,52.0,1.0,5397.0
+ORD-0103,CUST-1031,Backpack,Accessories,4.0,1499.0,2024-02-16,Debit Card,Cancelled,Kolkata,38.0,1.0,5996.0
+ORD-0005,CUST-1016,Water Bottle,Home & Kitchen,1.0,399.0,2024-02-17,UPI,Processing,Kolkata,56.0,3.0,399.0
+ORD-0026,CUST-1007,Backpack,Accessories,3.0,1499.0,2024-02-18,Cash on Delivery,Processing,Pune,44.0,4.0,4497.0
+ORD-0029,CUST-1004,Smart Watch,Electronics,5.0,3999.0,2024-02-20,Net Banking,Delivered,Chennai,33.0,2.0,19995.0
+ORD-0037,CUST-1005,Wireless Mouse,Electronics,4.0,599.0,2024-02-21,Net Banking,Shipped,Hyderabad,26.0,3.0,2396.0
+ORD-0045,CUST-1023,Cotton T-Shirt,Clothing,2.0,699.0,2024-02-22,Net Banking,Shipped,Mumbai,33.0,2.0,1398.0
+ORD-0043,CUST-1005,Jeans,Clothing,1.0,1799.0,2024-02-27,Credit Card,Returned,Bhubaneswar,41.0,5.0,1799.0
+ORD-0016,CUST-1019,Curtains,Home & Kitchen,3.0,1299.0,2024-02-27,Cash on Delivery,Shipped,Bengaluru,18.0,3.0,3897.0
+ORD-0109,CUST-1030,Bluetooth Speaker,Electronics,2.0,1899.0,2024-02-28,UPI,Shipped,Bengaluru,31.0,3.0,3798.0
+ORD-0131,CUST-1030,Curtains,Home & Kitchen,3.0,1299.0,2024-02-28,UPI,Shipped,Delhi,61.0,4.0,3897.0
+ORD-0135,CUST-1009,Curtains,Home & Kitchen,4.0,1299.0,2024-02-29,UPI,Delivered,Hyderabad,49.0,1.0,5196.0
+ORD-0011,CUST-1014,Backpack,Accessories,3.0,1499.0,2024-03-02,Net Banking,Processing,Delhi,59.0,4.0,4497.0
+ORD-0070,CUST-1004,Running Shoes,Footwear,4.0,2499.0,2024-03-04,Debit Card,Cancelled,Kolkata,31.0,4.0,9996.0
+ORD-0081,CUST-1032,Smart Watch,Electronics,3.0,3999.0,2024-03-04,Credit Card,Processing,Hyderabad,39.0,3.0,11997.0
+ORD-0083,CUST-1045,Smart Watch,Electronics,5.0,3999.0,2024-03-05,Cash on Delivery,Cancelled,Bengaluru,19.0,1.0,19995.0
+ORD-0055,CUST-1026,Running Shoes,Footwear,5.0,999999.0,2024-03-06,Net Banking,Delivered,Hyderabad,36.0,2.0,4999995.0
+ORD-0125,CUST-1013,Curtains,Home & Kitchen,4.0,1299.0,2024-03-06,Cash on Delivery,Cancelled,Chennai,33.0,4.0,5196.0
+ORD-0088,CUST-1012,Curtains,Home & Kitchen,2.0,1299.0,2024-03-07,Debit Card,Delivered,Mumbai,35.0,1.0,2598.0
+ORD-0030,CUST-1014,Backpack,Accessories,4.0,1499.0,2024-03-09,Cash on Delivery,Delivered,Mumbai,42.0,1.0,5996.0
+ORD-0012,CUST-1017,Backpack,Electronics,4.0,1499.0,2024-03-14,Credit Card,Shipped,Hyderabad,65.0,5.0,5996.0
+ORD-0142,CUST-1009,Wireless Mouse,Electronics,3.0,1499.0,2024-03-15,Net Banking,Processing,Mumbai,25.0,1.0,4497.0
+ORD-0058,CUST-1002,Cotton T-Shirt,Clothing,3.0,699.0,2024-03-16,UPI,Shipped,Bengaluru,57.0,1.0,2097.0
+ORD-0073,CUST-1016,Wireless Mouse,Home & Kitchen,5.0,599.0,2024-03-19,Credit Card,Cancelled,Chennai,54.0,2.0,2995.0
+ORD-0124,CUST-1005,Smart Watch,Electronics,3.0,3999.0,2024-03-21,Cash on Delivery,Processing,Hyderabad,58.0,4.0,11997.0
+ORD-0014,CUST-1051,Bluetooth Speaker,Electronics,2.0,1899.0,2024-03-22,Cash on Delivery,Returned,Chennai,42.0,4.0,3798.0
+ORD-0004,CUST-1045,Curtains,Electronics,1.0,1299.0,2024-03-22,Cash on Delivery,Processing,Hyderabad,27.0,2.0,1299.0
+ORD-0120,CUST-1045,Bluetooth Speaker,Electronics,4.0,1899.0,2024-03-26,Debit Card,Delivered,Bhubaneswar,38.0,1.0,7596.0
+ORD-0095,CUST-1036,Running Shoes,Footwear,2.0,2499.0,2024-03-29,UPI,Shipped,Bhubaneswar,44.0,4.0,4998.0
+ORD-0034,CUST-1044,Running Shoes,Footwear,1.0,2499.0,2024-04-02,Credit Card,Cancelled,Chennai,54.0,2.0,2499.0
+ORD-0006,CUST-1060,Wireless Mouse,Electronics,4.0,599.0,2024-04-03,Cash on Delivery,Delivered,Hyderabad,58.0,5.0,2396.0
+ORD-0076,CUST-1007,Bluetooth Speaker,Electronics,5.0,1899.0,2024-04-05,Debit Card,Returned,Chennai,54.0,1.0,9495.0
+ORD-0145,CUST-1033,Smart Watch,Electronics,4.0,3999.0,2024-04-07,Net Banking,Delivered,Bengaluru,50.0,2.0,15996.0
+ORD-0002,CUST-1003,Wireless Mouse,Electronics,5.0,1899.0,2024-04-08,UPI,Delivered,Delhi,32.0,5.0,9495.0
+ORD-0079,CUST-1030,Curtains,Home & Kitchen,5.0,1299.0,2024-04-09,Cash on Delivery,Returned,Hyderabad,38.0,2.0,6495.0
+ORD-0107,CUST-1018,Smart Watch,Electronics,1.0,3999.0,2024-04-14,Net Banking,Shipped,Hyderabad,46.0,4.0,3999.0
+ORD-0066,CUST-1054,Backpack,Accessories,1.0,1499.0,2024-04-15,Cash on Delivery,Cancelled,Bhubaneswar,54.0,4.0,1499.0
+ORD-0141,CUST-1038,Bluetooth Speaker,Electronics,5.0,1899.0,2024-04-16,Credit Card,Shipped,Kolkata,27.0,5.0,9495.0
+ORD-0021,CUST-1060,Desk Lamp,Home & Kitchen,4.0,999.0,2024-04-18,Credit Card,Shipped,Hyderabad,43.0,3.0,3996.0
+ORD-0065,CUST-1005,Backpack,Accessories,2.0,1499.0,2024-04-19,Cash on Delivery,Cancelled,Kolkata,52.0,4.0,2998.0
+ORD-0087,CUST-1048,Running Shoes,Footwear,2.0,2499.0,2024-04-20,Cash on Delivery,Processing,Hyderabad,24.0,5.0,4998.0
+ORD-0010,CUST-1044,Backpack,Accessories,3.0,1499.0,2024-04-22,Debit Card,Delivered,Mumbai,20.0,3.0,4497.0
+ORD-0048,CUST-1002,Curtains,Home & Kitchen,2.0,1299.0,2024-04-24,Credit Card,Cancelled,Kolkata,35.0,1.0,2598.0
+ORD-0023,CUST-1038,Desk Lamp,Home & Kitchen,5.0,999.0,2024-04-27,Credit Card,Delivered,Chennai,63.0,1.0,4995.0
+ORD-0119,CUST-1016,Jeans,Clothing,1.0,1799.0,2024-05-02,Debit Card,Shipped,Chennai,45.0,1.0,1799.0
+ORD-0148,CUST-1018,Running Shoes,Footwear,1.0,2499.0,2024-05-03,Net Banking,Returned,Kolkata,42.0,5.0,2499.0
+ORD-0144,CUST-1048,Curtains,Home & Kitchen,1.0,1299.0,2024-05-03,Cash on Delivery,Returned,Chennai,65.0,1.0,1299.0
+ORD-0020,CUST-1009,Bluetooth Speaker,Electronics,5.0,1899.0,2024-05-03,Cash on Delivery,Returned,Hyderabad,34.0,5.0,9495.0
+ORD-0085,CUST-1048,Jeans,Clothing,3.0,1799.0,2024-05-08,Net Banking,Processing,Kolkata,62.0,4.0,5397.0
+ORD-0060,CUST-1015,Wireless Mouse,Electronics,1.0,599.0,2024-05-08,Credit Card,Returned,Bengaluru,21.0,5.0,599.0
+ORD-0063,CUST-1041,Curtains,Home & Kitchen,5.0,1299.0,2024-05-09,Credit Card,Processing,Bengaluru,22.0,3.0,6495.0
+ORD-0084,CUST-1045,Curtains,Home & Kitchen,2.0,1299.0,2024-05-13,Credit Card,Processing,Kolkata,48.0,5.0,2598.0
+ORD-0133,CUST-1038,Smart Watch,Electronics,3.0,3999.0,2024-05-14,Cash on Delivery,Processing,Chennai,61.0,2.0,11997.0
+ORD-0036,CUST-1026,Water Bottle,Home & Kitchen,2.0,399.0,2024-05-15,Credit Card,Processing,Bengaluru,38.0,1.0,798.0
+ORD-0097,CUST-1051,Bluetooth Speaker,Electronics,2.0,1899.0,2024-05-15,Net Banking,Shipped,Pune,25.0,5.0,3798.0
+ORD-0050,CUST-1003,Running Shoes,Footwear,5.0,2499.0,2024-05-15,UPI,Returned,Pune,40.0,3.0,12495.0
+ORD-0098,CUST-1053,Cotton T-Shirt,Clothing,2.0,699.0,2024-05-16,Credit Card,Delivered,Bhubaneswar,28.0,3.0,1398.0
+ORD-0001,CUST-1016,Bluetooth Speaker,Electronics,1.0,1899.0,2024-05-20,Credit Card,Shipped,Chennai,61.0,5.0,1899.0
+ORD-0139,CUST-1013,Wireless Mouse,Electronics,4.0,1499.0,2024-05-21,UPI,Cancelled,Chennai,60.0,2.0,5996.0
+ORD-0057,CUST-1033,Running Shoes,Footwear,1.0,2499.0,2024-05-25,Net Banking,Processing,Chennai,33.0,3.0,2499.0
+ORD-0099,CUST-1029,Desk Lamp,Home & Kitchen,5.0,999.0,2024-05-27,UPI,Cancelled,Hyderabad,62.0,4.0,4995.0
+ORD-0096,CUST-1003,Desk Lamp,Electronics,4.0,999.0,2024-05-29,Credit Card,Processing,Hyderabad,62.0,4.0,3996.0
+ORD-0089,CUST-1012,Wireless Mouse,Electronics,5.0,599.0,2024-05-29,Credit Card,Cancelled,Chennai,18.0,5.0,2995.0
+ORD-0054,CUST-1036,Water Bottle,Home & Kitchen,4.0,399.0,2024-05-31,Credit Card,Shipped,Pune,60.0,4.0,1596.0
+ORD-0126,CUST-1045,Desk Lamp,Home & Kitchen,3.0,999.0,2024-05-31,Debit Card,Delivered,Pune,35.0,1.0,2997.0
+ORD-0082,CUST-1034,Desk Lamp,Home & Kitchen,3.0,999.0,2024-06-01,Credit Card,Delivered,Delhi,64.0,4.0,2997.0
+ORD-0123,CUST-1041,Running Shoes,Footwear,2.0,2499.0,2024-06-05,Debit Card,Cancelled,Hyderabad,60.0,1.0,4998.0
+ORD-0130,CUST-1034,Running Shoes,Footwear,5.0,2499.0,2024-06-07,Cash on Delivery,Processing,Mumbai,34.0,4.0,12495.0
+ORD-0040,CUST-1019,Jeans,Clothing,2.0,1799.0,2024-06-11,Net Banking,Shipped,Kolkata,31.0,3.0,3598.0
+ORD-0056,CUST-1030,Backpack,Accessories,5.0,1499.0,2024-06-13,Cash on Delivery,Cancelled,Delhi,50.0,4.0,7495.0
+ORD-0114,CUST-1056,Backpack,Accessories,4.0,1499.0,2024-06-13,Credit Card,Shipped,Pune,42.0,4.0,5996.0
+ORD-0134,CUST-1059,Smart Watch,Electronics,1.0,3999.0,2024-06-16,Net Banking,Shipped,Chennai,58.0,4.0,3999.0
+ORD-0116,CUST-1056,Running Shoes,Footwear,5.0,2499.0,2024-06-18,UPI,Cancelled,Chennai,51.0,4.0,12495.0
+ORD-0064,CUST-1021,Cotton T-Shirt,Accessories,3.0,699.0,2024-06-20,Net Banking,Delivered,Mumbai,27.0,2.0,2097.0
+ORD-0072,CUST-1015,Jeans,Clothing,1.0,1799.0,2024-06-28,UPI,Delivered,Bhubaneswar,33.0,2.0,1799.0
+ORD-0067,CUST-1020,Smart Watch,Electronics,1.0,3999.0,2024-06-29,Cash on Delivery,Cancelled,Delhi,49.0,2.0,3999.0
+ORD-0042,CUST-1041,Wireless Mouse,Electronics,3.0,599.0,2024-07-03,Debit Card,Shipped,Bengaluru,53.0,4.0,1797.0
+ORD-0009,CUST-1039,Cotton T-Shirt,Clothing,3.0,699.0,2024-07-03,Credit Card,Returned,Delhi,28.0,4.0,2097.0
+ORD-0111,CUST-1059,Running Shoes,Footwear,4.0,2499.0,2024-07-04,Net Banking,Returned,Mumbai,22.0,3.0,9996.0
+ORD-0074,CUST-1011,Smart Watch,Electronics,3.0,3999.0,2024-07-07,Net Banking,Returned,Chennai,28.0,3.0,11997.0
+ORD-0077,CUST-1043,Water Bottle,Home & Kitchen,5.0,399.0,2024-07-08,Debit Card,Delivered,Kolkata,18.0,4.0,1995.0
+ORD-0137,CUST-1040,Backpack,Accessories,1.0,1499.0,2024-07-09,Cash on Delivery,Processing,Bhubaneswar,62.0,3.0,1499.0
+ORD-0008,CUST-1018,Cotton T-Shirt,Clothing,1.0,699.0,2024-07-13,Cash on Delivery,Processing,Mumbai,41.0,3.0,699.0
+ORD-0071,CUST-1018,Water Bottle,Home & Kitchen,3.0,399.0,2024-07-13,Cash on Delivery,Processing,Chennai,48.0,1.0,1197.0
+ORD-0053,CUST-1043,Water Bottle,Home & Kitchen,5.0,399.0,2024-07-21,UPI,Processing,Hyderabad,60.0,4.0,1995.0
+ORD-0013,CUST-1024,Backpack,Accessories,5.0,1499.0,2024-07-23,Credit Card,Shipped,Bengaluru,23.0,1.0,7495.0
+ORD-0091,CUST-1032,Bluetooth Speaker,Electronics,1.0,1899.0,2024-07-24,UPI,Returned,Bhubaneswar,27.0,2.0,1899.0
+ORD-0117,CUST-1056,Wireless Mouse,Electronics,2.0,599.0,2024-07-28,Credit Card,Delivered,Bengaluru,34.0,3.0,1198.0
+ORD-0104,CUST-1045,Running Shoes,Footwear,3.0,2499.0,2024-07-29,Cash on Delivery,Processing,Pune,53.0,3.0,7497.0
+ORD-0106,CUST-1004,Jeans,Clothing,4.0,1799.0,2024-07-30,Credit Card,Returned,Kolkata,57.0,4.0,7196.0
+ORD-0110,CUST-1054,Jeans,Clothing,3.0,1799.0,2024-07-31,Cash on Delivery,Cancelled,Delhi,47.0,5.0,5397.0
+ORD-0129,CUST-1006,Desk Lamp,Home & Kitchen,3.0,999.0,2024-08-03,Debit Card,Processing,Pune,29.0,2.0,2997.0
+ORD-0007,CUST-1046,Water Bottle,Home & Kitchen,5.0,399.0,2024-08-04,UPI,Delivered,Bhubaneswar,36.0,1.0,1995.0
+ORD-0086,CUST-1015,Curtains,Home & Kitchen,3.0,1299.0,2024-08-05,UPI,Shipped,Kolkata,25.0,5.0,3897.0
+ORD-0038,CUST-1019,Bluetooth Speaker,Electronics,2.0,1899.0,2024-08-07,Credit Card,Cancelled,Hyderabad,57.0,5.0,3798.0
+ORD-0044,CUST-1009,Jeans,Clothing,2.0,1799.0,2024-08-08,UPI,Processing,Kolkata,20.0,3.0,3598.0
+ORD-0150,CUST-1029,Jeans,Clothing,2.0,1799.0,2024-08-08,Credit Card,Cancelled,Kolkata,47.0,4.0,3598.0
+ORD-0017,CUST-1059,Jeans,Clothing,2.0,1799.0,2024-08-14,UPI,Processing,Delhi,27.0,3.0,3598.0
+ORD-0138,CUST-1016,Cotton T-Shirt,Clothing,4.0,699.0,2024-08-15,Debit Card,Delivered,Kolkata,52.0,3.0,2796.0
+ORD-0113,CUST-1035,Smart Watch,Electronics,2.0,3999.0,2024-08-16,Cash on Delivery,Processing,Kolkata,53.0,5.0,7998.0
+ORD-0062,CUST-1058,Jeans,Clothing,4.0,1799.0,2024-08-16,Credit Card,Cancelled,Bengaluru,34.0,2.0,7196.0
+ORD-0080,CUST-1016,Bluetooth Speaker,Electronics,3.0,1899.0,2024-08-18,Cash on Delivery,Returned,Pune,42.0,1.0,5697.0
+ORD-0022,CUST-1008,Smart Watch,Electronics,5.0,3999.0,2024-08-19,Credit Card,Shipped,Chennai,39.0,1.0,19995.0
+ORD-0031,CUST-1019,Backpack,Accessories,3.0,2499.0,2024-08-20,Cash on Delivery,Returned,Bengaluru,27.0,2.0,7497.0
+ORD-0149,CUST-1033,Jeans,Clothing,3.0,1799.0,2024-08-20,Net Banking,Cancelled,Chennai,62.0,1.0,5397.0
+ORD-0061,CUST-1009,Cotton T-Shirt,Clothing,1.0,699.0,2024-08-21,Cash on Delivery,Returned,Kolkata,46.0,5.0,699.0
+ORD-0115,CUST-1046,Wireless Mouse,Electronics,3.0,599.0,2024-08-30,Cash on Delivery,Cancelled,Mumbai,49.0,1.0,1797.0
+ORD-0068,CUST-1002,Curtains,Home & Kitchen,4.0,1299.0,2024-09-02,Cash on Delivery,Processing,Pune,64.0,2.0,5196.0
+ORD-0059,CUST-1046,Smart Watch,Electronics,3.0,3999.0,2024-09-04,Cash on Delivery,Cancelled,Pune,33.0,2.0,11997.0
+ORD-0025,CUST-1047,Cotton T-Shirt,Clothing,5.0,699.0,2024-09-04,Net Banking,Returned,Bengaluru,33.0,4.0,3495.0
+ORD-0078,CUST-1024,Smart Watch,Electronics,1.0,3999.0,2024-09-08,Cash on Delivery,Shipped,Pune,42.0,5.0,3999.0
+ORD-0100,CUST-1029,Curtains,Home & Kitchen,5.0,1299.0,2024-09-09,UPI,Returned,Bhubaneswar,45.0,3.0,6495.0
+ORD-0033,CUST-1059,Desk Lamp,Home & Kitchen,4.0,999.0,2024-09-14,Net Banking,Shipped,Bhubaneswar,50.0,1.0,3996.0
+ORD-0112,CUST-1018,Backpack,Accessories,3.0,1499.0,2024-09-16,UPI,Processing,Hyderabad,55.0,5.0,4497.0
+ORD-0049,CUST-1026,Curtains,Clothing,3.0,1299.0,2024-09-17,Net Banking,Processing,Bhubaneswar,25.0,3.0,3897.0
+ORD-0051,CUST-1008,Backpack,Accessories,5.0,1499.0,2024-09-18,Cash on Delivery,Returned,Delhi,34.0,1.0,7495.0
+ORD-0052,CUST-1060,Backpack,Accessories,1.0,1499.0,2024-09-23,Net Banking,Shipped,Kolkata,45.0,1.0,1499.0
+ORD-0146,CUST-1020,Desk Lamp,Home & Kitchen,1.0,999.0,2024-09-23,Cash on Delivery,Delivered,Bhubaneswar,48.0,4.0,999.0
+ORD-0093,CUST-1025,Desk Lamp,Home & Kitchen,2.0,999.0,2024-09-24,Cash on Delivery,Cancelled,Hyderabad,55.0,4.0,1998.0
+ORD-0015,CUST-1017,Desk Lamp,Home & Kitchen,4.0,999.0,2024-09-27,UPI,Delivered,Chennai,61.0,5.0,3996.0
+ORD-0122,CUST-1040,Running Shoes,Footwear,2.0,2499.0,2024-10-02,Cash on Delivery,Returned,Delhi,49.0,5.0,4998.0
+ORD-0105,CUST-1017,Smart Watch,Electronics,1.0,3999.0,2024-10-06,Debit Card,Delivered,Pune,50.0,1.0,3999.0
+ORD-0118,CUST-1055,Desk Lamp,Home & Kitchen,3.0,999.0,2024-11-02,Debit Card,Returned,Pune,38.0,4.0,2997.0
+ORD-0128,CUST-1041,Desk Lamp,Home & Kitchen,3.0,999.0,2024-11-03,UPI,Delivered,Hyderabad,46.0,1.0,2997.0
+ORD-0127,CUST-1054,Desk Lamp,Home & Kitchen,1.0,999.0,2024-11-09,Debit Card,Shipped,Kolkata,32.0,2.0,999.0

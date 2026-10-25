@@ -1,0 +1,7 @@
+Metric,Raw,Cleaned
+Rows,150,144
+Columns,12,13
+Missing cells,12,0
+Exact duplicate rows,3,0
+Rows with duplicate Order IDs,8,0
+Rows with duplicate Customer IDs,141,135
